@@ -5,7 +5,7 @@ import sklearn
 import scipy.sparse
 import numpy as np
 import os, time, collections, shutil
-
+#from tensorflow.python import debug as tf_debug
 
 #NFEATURES = 28**2
 #NCLASSES = 10
